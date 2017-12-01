@@ -1,0 +1,49 @@
+#controls {
+    position:fixed;
+    left:150px;
+    top:-63px;
+    border:2px solid black;
+    padding:10px;
+}
+
+#dropdown {
+    position:relative;
+    top:50px;
+    right:614px;
+    border:2px solid black;
+    padding:10px;
+    background-color:white;
+}
+
+#display {
+    position:fixed;
+    top:200px;
+    left:150px;
+    height:40vh;
+    width:30vw;
+}
+
+#image {
+    height:100%;
+    width:100%;
+}
+
+#displayTitle {
+    position:relative;
+    top:-45px;
+    left:0px;
+    font-size:40px;
+    color:white;
+}
+
+#localSave {
+    position:fixed;
+    bottom:50px;
+    left:50px;
+}
+
+#onlineFetch {
+    position:fixed;
+    bottom:50px;
+    right:50px;
+}
